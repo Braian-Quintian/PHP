@@ -1,0 +1,10 @@
+{
+    "name": "bquin/php",
+    "description": "project php",
+    "authors": [
+        {
+            "name": "Braian-Quintian"
+        }
+    ],
+    "require": {}
+}
